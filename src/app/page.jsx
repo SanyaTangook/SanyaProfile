@@ -18,7 +18,7 @@ export default function App() {
               I'm Sanya Tangsook Let's collaborate and create something amazing!
               Connect with me via This website. Cheers, Sanya Tangsook
             </p>
-            <Link href="/Blog" className="btn btn-primary">
+            <Link href="/blog" className="btn btn-primary">
               Let's go
             </Link>
           </div>
