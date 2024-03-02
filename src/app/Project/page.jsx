@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "../components/navbar";
-import GitHub from "../../JSON/Project";
+import GitHub from "./Project";
 import Link from "next/link";
 
 export default async function Project() {

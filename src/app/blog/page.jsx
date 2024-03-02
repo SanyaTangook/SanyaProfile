@@ -1,6 +1,6 @@
 import NavBar from "../components/navbar";
 import Image from "next/image";
-import Work from "../../JSON/Work.Json";
+import Work from "./Work";
 import Link from "next/link";
 export default function page() {
   const experience = Work["experience"];
