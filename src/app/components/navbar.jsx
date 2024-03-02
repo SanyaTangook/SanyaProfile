@@ -1,6 +1,6 @@
 import Link from "next/link";
 export default function NavBar({ PageName }) {
-  const meun = ["Home", "Blog", "Project", "Content Us"];
+  const meun = ["home", "blog", "project", "content Us"];
   const content = [
     {
       id: 1,
@@ -23,7 +23,7 @@ export default function NavBar({ PageName }) {
             {meun.map((index) => (
               <li className="hover:bg-warning rounded-full">
                 <Link
-                  href={`/${index === "Content Us" ? "Content" : index}`}
+                  href={`/${index === "content Us" ? "content" : index}`}
                   className="text-black"
                 >
                   {index}
