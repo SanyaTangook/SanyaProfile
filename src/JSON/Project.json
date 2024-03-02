@@ -1,0 +1,25 @@
+{
+    "GITHUB": {
+        "Linux-Laboratory":{
+            "url":"https://github.com/SanyaTangook/Linux-Laboratory",
+            "Description": "เว็บแอพสำหรับการเรียนรู้คำสั่ง Liunx"
+        },
+        "Terraform_GithubEC": {
+            "url": "https://github.com/SanyaTangook/Terraform_GithubEC",
+            "Description": "ใช้ Terraform สร้าง github enterprise cloud และ Setup Team จากไฟล์ JSON"
+        },
+        "Learn-Pyhton": {
+            "url": "https://github.com/SanyaTangook/Learn-Pyhton",
+            "Description": "ใช้สำหรับการเรียนภาษา Python เบื้องต้น"
+        },
+        "React-Workshop":{
+            "url": "https://github.com/SanyaTangook/React-Workshop",
+            "Description": "งานใช้ช่วงการเรียน React เบื้องต้น"
+        },
+        "React-Projact":{
+            "url":"https://github.com/SanyaTangook/React-Projact",
+            "Description": "บทเรียนต่าง ๆ ใช้ช่วงการเรียน React เบื้องต้น"
+        }
+    
+    }
+}

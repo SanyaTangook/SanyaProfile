@@ -1,0 +1,20 @@
+{
+    "experience": {
+        "IT SUPPORT (Intern)": {
+            "date": "Jul 2021 - Oct 2021",
+            "des": "Manage network systems, such as overseeing the setup of basic server equipment and maintaining system functionality within an organization at ONLINE ASSET CO.,LTD."
+        },
+        "Cloud Engineer(Intern)": {
+            "date": "Apr 2023 - Jul 2023",
+            "des":"Learn about Cloud Azure, Docker, Kubernetes, Terraform, and other related technologies. Perform Azure App Service setup, pipeline deployment, and troubleshoot various issues. at CLOUD NC CO., LTD."
+        },
+        "Cloud Engineer(Part Time)": {
+            "date": "Jul 2023 - Nov 2023",
+            "des": "Write Terraform code for creating GitHub Enterprise Cloud and set up CI/CD for automatically provisioning GitHub Enterprise Cloud. Also, act as an assistant for teaching in various locations. at CLOUD NC CO., LTD."
+        }
+    },
+    "education":[
+    ["High Vocational Certificate" , "Computer Technology at Technical College of Phra Nakhon Si Ayutthaya" , "GPAX 3.72"],
+    ["Bachelor's Degree" , "College of Industrial Technology at King Mongkut’s University of Technology North Bangkok" , "GPAX 2.70 "]
+    ]
+}
