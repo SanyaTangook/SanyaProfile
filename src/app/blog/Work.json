@@ -4,11 +4,11 @@
             "date": "Jul 2021 - Oct 2021",
             "des": "Manage network systems, such as overseeing the setup of basic server equipment and maintaining system functionality within an organization at ONLINE ASSET CO.,LTD."
         },
-        "Cloud Engineer(Intern)": {
+        "Cloud Engineer(Intern)/DevOps": {
             "date": "Apr 2023 - Jul 2023",
             "des":"Learn about Cloud Azure, Docker, Kubernetes, Terraform, and other related technologies. Perform Azure App Service setup, pipeline deployment, and troubleshoot various issues. at CLOUD NC CO., LTD."
         },
-        "Cloud Engineer(Part Time)": {
+        "Cloud Engineer/DevOps (Part Time)": {
             "date": "Jul 2023 - Nov 2023",
             "des": "Write Terraform code for creating GitHub Enterprise Cloud and set up CI/CD for automatically provisioning GitHub Enterprise Cloud. Also, act as an assistant for teaching in various locations. at CLOUD NC CO., LTD."
         }
