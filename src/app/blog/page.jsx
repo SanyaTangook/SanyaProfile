@@ -62,7 +62,7 @@ export default function page() {
             <div className="grid justify-items-center my-32">
               <Link
                 className="btn btn-block my-2"
-                href="https://drive.google.com/file/d/1_AilsBieGbO107esThG_5cqzZI4TT4tY/view?usp=sharing"
+                href="https://drive.google.com/file/d/16lWxPS0tDAmxdBjZHxlszrrakPg34nfw/view?usp=sharing"
                 target="_black"
               >
                 Resume
